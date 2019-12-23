@@ -1,0 +1,222 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled11.ipynb",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/asd469469564/computation-/blob/master/week11%20a108260085%20%E6%9D%8E%E6%98%9F%E7%B7%AF.%E9%81%B8%E6%93%87%E9%A1%8C%E7%B7%B4%E7%BF%92\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "llFbY2uVpo5d",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "a"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "T_JeUiWpprG8",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "b"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "ULlC7n8mptaZ",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "d"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "FCRs2u6gpu9S",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "c"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "Em2wRQicpwGA",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "a"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "blWjyFzwpyWI",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "a"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "1jTwZrwOpzf_",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "b"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "b0jogD-hp0An",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "c"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "pGFqnOp_p3Fd",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "a"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "msxEECFvp4BX",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "b"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "J2S1lnTcp4qd",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "c"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "7xkQucEPp5vM",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "a"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "pzNiwph1p9PT",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "b"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "DJpfGR7Fp-hi",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "c"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "wTIog5Qlp-6R",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "d"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    }
+  ]
+}
